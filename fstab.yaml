@@ -1,5 +1,6 @@
 mountpoints:
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -9,3 +10,9 @@ mountpoints:
 type: "markup"
 suffix: ".html"
 >>>>>>> 67bc2e4 (Create fstab.yaml)
+=======
+/: 
+   url : https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/spoorti1452/EDS-Forms/main
+   type: "markup"
+   suffix: ".html"
+>>>>>>> af21d02 (Update fstab.yaml)
